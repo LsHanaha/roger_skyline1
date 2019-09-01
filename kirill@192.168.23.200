@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Hi there/title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1>ПРИВЕТ</h1>
+		<a href="https://www.tutorialspoint.com/html/html_basic_tags.htm">ТЕКСТ</a>
+		<a href="http://htmlbook.ru/html">ТЕКСТ2</a>
+	</body>
+</html>
